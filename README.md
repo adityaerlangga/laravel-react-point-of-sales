@@ -10,7 +10,7 @@
 
 ## Demo
 
-<img src="https://ibb.co/KFzsRrF" width="300">
+<img src="./public/assets/demo1.png" width="300">
 <img src="https://ibb.co/tmTkmpY" width="300">
 
 ## LINKS
