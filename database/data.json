@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Nasi Goreng",
+    "image": "nasi-goreng.webp",
+    "price": 25000
+  },
+  {
+    "name": "Sop Iga",
+    "image": "sop-iga.webp",
+    "price": 30000
+  },
+  {
+    "name": "Kwetiau",
+    "image": "kwetiau.webp",
+    "price": 20000
+  },
+  {
+    "name": "Bakmi Ayam",
+    "image": "bakmi-ayam.webp",
+    "price": 15000
+  },
+  {
+    "name": "Cumi Tepung",
+    "image": "cumi-tepung.webp",
+    "price": 35000
+  },
+  {
+    "name": "Cumi Bakar",
+    "image": "cumi-bakar.webp",
+    "price": 10000
+  },
+  {
+    "name": "Cumi Goreng",
+    "image": "cumi-goreng.webp",
+    "price": 20000
+  },
+  {
+    "name": "Cumi Sambel",
+    "image": "cumi-sambel.webp",
+    "price": 55000
+  },
+  {
+    "name": "Udang Bakar",
+    "image": "udang-bakar.webp",
+    "price": 25000
+  },
+  {
+    "name": "Udang Saos",
+    "image": "udang-saos.webp",
+    "price": 17000
+  },
+  {
+    "name": "Udang Pedas",
+    "image": "udang-pedas.webp",
+    "price": 20000
+  },
+  {
+    "name": "Udang B. Bali",
+    "image": "udang-bumbu-bali.webp",
+    "price": 15000
+  },
+  {
+    "name": "Es Teh",
+    "image": "es-teh.webp",
+    "price": 6000
+  },
+  {
+    "name": "Es Susu Soda",
+    "image": "es-susu-soda.webp",
+    "price": 10000
+  },
+  {
+    "name": "Es Jeruk",
+    "image": "es-jeruk.webp",
+    "price": 6000
+  },
+  {
+    "name": "Jus Mangga",
+    "image": "jus-mangga.webp",
+    "price": 10000
+  }
+]
+
